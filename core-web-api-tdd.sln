@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core-web-api-tdd", "core-web-api-tdd\core-web-api-tdd.csproj", "{71E38D81-338C-4D24-802C-E03FB3FE6132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core-web-api-tdd-test", "core-web-api-tdd-test\core-web-api-tdd-test.csproj", "{61CF532F-9E4A-4127-ACA5-EB26EB76E47D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core-web-api-tdd.Tests", "core-web-api-tdd-test\core-web-api-tdd.Tests.csproj", "{61CF532F-9E4A-4127-ACA5-EB26EB76E47D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
